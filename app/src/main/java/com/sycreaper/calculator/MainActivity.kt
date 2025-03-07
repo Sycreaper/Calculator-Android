@@ -78,7 +78,7 @@ class MainActivity : ComponentActivity() {
                                 viewModel.onAction(CalculatorAction.Delete)
                             }
                             CalculatorButton(
-                                symbol = "/",
+                                symbol = "÷",
                                 color = Orange,
                                 modifier = Modifier
                                     .aspectRatio(1f)
@@ -120,7 +120,7 @@ class MainActivity : ComponentActivity() {
                                 viewModel.onAction(CalculatorAction.Number(9))
                             }
                             CalculatorButton(
-                                symbol = "x",
+                                symbol = "×",
                                 color = Orange,
                                 modifier = Modifier
                                     .aspectRatio(1f)
