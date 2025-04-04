@@ -11,9 +11,12 @@ This is a Calculator in Android by Sycreaper Team.
 
 ## Install
 
-Please use `Android Studio` to git clone. <br/>
-> 中文: 请使用 `Android Studio` 的 `Git` 进行克隆。
-Or using an Android phone. <br/>
+Please use `Android Studio` to git clone. 
+
+> 中文: 请使用 `Android Studio` 的 `Git` 进行克隆
+
+Or using an Android phone. 
+
 > 中文: 或者使用一个安卓手机进行安装。
 
 ### Version List
