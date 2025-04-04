@@ -1,5 +1,5 @@
 <h1 align="center">Calculator-Android Project</h1>
-<div align="center"><img src="./Icon.png" height=90 width=90 style="border-radius: 10px;" alt="Calculator Logo"/></div>
+<div align="center"><img src="./Icon.png" height=90 width=90 style="border-radius: 10px;"/></div>
 
 ## Introduce
 > 中文: 安卓计算器项目
